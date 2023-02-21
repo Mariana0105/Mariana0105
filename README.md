@@ -58,7 +58,7 @@ Skills and knowledge obtained on bootcamp courses are described in my **CV**
   Have experience in using Elements tab, aspecialy HTML and CSS pages
 - **_MS SQL Server_**
 - **_Visual Studio_**
-- **_Selenium_**
+- **_Selenium IDE_**
 - **_Postman_**
 - **_Microsoft Office 365 Tools_**
 
@@ -71,7 +71,7 @@ _Cloud Academy | QA Company - Cloud Training & Certification_, United Kingdom
 
 Leading enterprise digital skills platform for training in [cloud computing services](https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals/ "Microsoft Certified: Azure Fundamentals") and software engineering through learning paths, hands-on labs and practical activities.
 
-**DfE Bootcamp** - Software Quality Control Course
+**Project Lab** - Software Quality Control Course
 _IT Academy | SoftServe Company - Quality assurance of modern software systems_, Ukraine
 
 [Show credential↗️](https://1drv.ms/b/s!AhjrxK79Ii79gYQY83zO9OuwcJYofA?e=XcGXhd)
