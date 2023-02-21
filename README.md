@@ -34,7 +34,7 @@ Skills and knowledge obtained on bootcamp courses are described in my **CV**
 
 - have practice in creating test cases and checklists
 - have understanding when test cases and check lists are better to be used
-- able to prepare comprehensive and detailed [bug reports]()
+- able to prepare comprehensive and detailed [bug reports ↗️](https://docs.google.com/spreadsheets/d/1gYGhbL7xTAmtaO28Necft92F97wFsPNcnUPr9RNnUiA/edit?usp=share_link)
 - know how to create [test cycles](https://1drv.ms/u/s!AhjrxK79Ii79gYQTcLdlOLkkYj2A4g?e=ODkpii/ "A screenshot from Jira") in Jira for running test cases with regards of confirmarion and regression testing
 
 **API testing**
