@@ -39,8 +39,7 @@ Skills and knowledge obtained on bootcamp courses are described in my [**CV**](/
 
 **API testing**
 
-- Fundamentals of API Testing
-- An understanding of HTTP
+- fundamentals of manual API Testing
 - Creating API Requests
 
 **SQL databases**
