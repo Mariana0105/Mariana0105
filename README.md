@@ -2,11 +2,11 @@
 
 ---
 
-I'm a self-desciplined, result-driven collaborator with 7 years of administrative experience in the education sector. Currently, I’m seeking a career change into the field of software testing. Despite the two fields may seem very different, I’m convinced that my managing, monotoring and controlling experience provide me valuable transferable skills to software testing.
+I'm a self-disciplined, result-driven collaborator with 7 years of administrative experience in the education sector. Currently, I’m seeking a career change into the field of software testing. Despite the two fields may seem very different, I’m convinced that my managing, monitoring and controlling experience provide me valuable transferable skills to software testing.
 
 I did a couple of courses in software testing and obtained a number of relevant certifications. I was engaged in the Project Lab for three months, where I expanded my testing skills and worked with testing documentation.
 
-Nowadays, I'm intensively studying techniques and tools. My biggest passion is to get a job as a software tester on an entry-level position with the goal to gain hands-on experience and increase my skills and knowledge to help build high-quality product.
+Nowadays, I'm intensively studying techniques and tools. My biggest passion is to get a job as a software tester in an entry-level position with the goal to gain hands-on experience and increase my skills and knowledge to help build high-quality product.
 
 Skills and knowledge obtained on bootcamp courses are described in my [**CV**](https://1drv.ms/w/s!AhjrxK79Ii79gYQZ1xfJs3gOQ37g_g?e=boDTma/ "Click & Download my CV")
 
@@ -33,9 +33,9 @@ Skills and knowledge obtained on bootcamp courses are described in my [**CV**](h
 **Test documentation**
 
 - have practice in creating test cases and checklists
-- have understanding when test cases and check lists are better to be used
+- have understanding when test cases and checklists are better to be used
 - able to prepare comprehensive and detailed [bug reports ↗️](https://docs.google.com/spreadsheets/d/1gYGhbL7xTAmtaO28Necft92F97wFsPNcnUPr9RNnUiA/edit?usp=share_link)
-- know how to create [test cycles](https://1drv.ms/u/s!AhjrxK79Ii79gYQTcLdlOLkkYj2A4g?e=ODkpii/ "A screenshot from Jira") in Jira for running test cases with regards of confirmarion and regression testing
+- know how to create [test cycles](https://1drv.ms/u/s!AhjrxK79Ii79gYQTcLdlOLkkYj2A4g?e=ODkpii/ "A screenshot from Jira") in Jira for running test cases with regards of confirmation and regression testing
 
 **API testing**
 
@@ -51,11 +51,9 @@ Skills and knowledge obtained on bootcamp courses are described in my [**CV**](h
 
 **Tools**
 
-- **_Jira_**
-  Have hands-on experience to create test cases, test cycles and bug reports
+- **_Jira_** - have hands-on experience to create test cases, test cycles and bug reports
 
-- **_DevTools_**
-  Have experience in using Elements tab, aspecialy HTML and CSS pages
+- **_DevTools_** - have experience in using Elements tab, especially HTML and CSS pages
 - **_MS SQL Server_**
 - **_Visual Studio_**
 - **_Selenium IDE_**
