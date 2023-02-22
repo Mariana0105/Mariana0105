@@ -28,7 +28,7 @@ Skills and knowledge obtained on bootcamp courses are described in my [**CV**](h
 
 - know how to decompose a product on functional features
 - know how to implement [test techniques](https://1drv.ms/b/s!AhjrxK79Ii79gYQXAVWBMEdmoe_SzQ?e=EQFzjl/ "Cloud Academy Certificate of Achievements")
-- familiar with BDD & TDD ([Behavior Driven Development](https://docs.google.com/spreadsheets/d/1rB_-rT2d6kLaNriyKKFdXI_L-uYAYKttQHtLgmwIqx0/edit?usp=share_link "My BDD scenarios") & [Test Driven Development]"My procedure-written scenarios"
+- familiar with [BDD](https://docs.google.com/spreadsheets/d/1rB_-rT2d6kLaNriyKKFdXI_L-uYAYKttQHtLgmwIqx0/edit?usp=share_link "My BDD scenarios") (Behaviour-Driven Development) & TDD (Test-Driven Development)
 
 **Test documentation**
 
