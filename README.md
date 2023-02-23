@@ -8,7 +8,7 @@ I did a couple of courses in software testing and obtained a number of relevant 
 
 Nowadays, I'm intensively studying techniques and tools. My biggest passion is to get a job as a software tester in an entry-level position with the goal to gain hands-on experience and increase my skills and knowledge to help build high-quality product.
 
-Skills and knowledge obtained on bootcamp courses are described in my [**CV**](https://drive.google.com/file/d/1I4pH-Fs6lop66DXIb_vJj-9EHazW_YIj/view?usp=share_link/ "Click & Download my CV")
+Skills and knowledge obtained on bootcamp courses are described in my [**CV**](https://drive.google.com/file/d/1cpugYRq0EzCPMFmxNhADpjMV5Mk5Agl3/view?usp=share_link/ "Click & Download my CV")
 
 #### Recent Projects
 
