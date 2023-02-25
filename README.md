@@ -13,7 +13,7 @@ Skills and knowledge obtained on bootcamp courses are described in my [**CV**](h
 1.  [DfE Bootcamp project](https://docs.google.com/spreadsheets/d/1LMDcVPEkYKCTwuwdmFAGZPJWL891dSTGJky0_l728H0/edit?usp=share_link/ "My software testing project")
 2.  [👩‍🍳 EasyCook](https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/001/170/366/original/Project-1.html?1664130191/ "It's my HTML/CSS/JS project")
 
-#### Skills
+## Skills
 
 **Manual testing**
 
@@ -57,9 +57,8 @@ Skills and knowledge obtained on bootcamp courses are described in my [**CV**](h
 - **_Postman_**
 - **_Microsoft Office 365 Tools_**
 
-#### Courses
+## Courses
 
----
 
 **DfE Bootcamp** - Software Testing Course
 _Cloud Academy | QA Company - Cloud Training & Certification_, United Kingdom
