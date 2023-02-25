@@ -1,7 +1,5 @@
 # Portfolio
 
----
-
 I'm a self-disciplined, result-driven collaborator with 7 years of administrative experience in the education sector. Currently, I’m seeking a career change into the field of software testing. Despite the two fields may seem very different, I’m convinced that my managing, monitoring and controlling experience provide me valuable transferable skills to software testing.
 
 I did a couple of courses in software testing and obtained a number of relevant certifications. I was engaged in the Project Lab for three months, where I expanded my testing skills and worked with testing documentation.
