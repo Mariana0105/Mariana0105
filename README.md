@@ -2,9 +2,12 @@
 
 > I'm a self-disciplined, result-driven collaborator with 7 years of administrative experience in the education sector. Currently, I’m seeking a career change into the field of software testing. Despite the two fields may seem very different, I’m convinced that my managing, monitoring and controlling experience provide me valuable transferable skills to software testing.
 >
+>
 I did a couple of courses in software testing and obtained a number of relevant certifications. I was engaged in the Project Lab for three months, where I expanded my testing skills and worked with testing documentation.
 >
+>
 Nowadays, I'm intensively studying techniques and tools. My biggest passion is to get a job as a software tester in an entry-level position with the goal to gain hands-on experience and increase my skills and knowledge to help build high-quality product.
+>
 >
 Skills and knowledge obtained on bootcamp courses are described in my [**CV**](https://1drv.ms/w/s!AhjrxK79Ii79gYQrvR7E9qEdwmqDkw?e=B8O8mN/ "Click & Download my CV")
 
