@@ -16,34 +16,35 @@ Skills and knowledge obtained on bootcamp courses are described in my [**CV**](h
 
 ### Manual testing
 
-* have a solid understanding of functional & non-functional requirements and importance of early [review](https://1drv.ms/b/s!AhjrxK79Ii79gYQVJwV8jLc6S558FQ?e=d1JM2M/ "Cloud Academy Certificate of achievements") of them
-* can perform requirements analysis [link](https://docs.google.com/spreadsheets/d/1sIlMqed_dFpSe7gZByIiWKUJuVg8blU4QxiYon73kT8/edit?usp=share_link)
-* have understanding of [test engineering](https://1drv.ms/b/s!AhjrxK79Ii79gYQUMopG1KL9YhcZiA?e=Ytt6ia/ "Cloud Academy Certificate of Achievements"), testing types and areas of their claiming, can perform functional, usability and UI testing of websites
-* familiar with accessibility guidance standard
+*  have a solid understanding of functional & non-functional requirements and importance of early [review](https://1drv.ms/b/s!AhjrxK79Ii79gYQVJwV8jLc6S558FQ?e=d1JM2M/ "Cloud Academy Certificate of achievements") of them
+*  can perform requirements analysis [link](https://docs.google.com/spreadsheets/d/1sIlMqed_dFpSe7gZByIiWKUJuVg8blU4QxiYon73kT8/edit?usp=share_link)
+*  have understanding of [test engineering](https://1drv.ms/b/s!AhjrxK79Ii79gYQUMopG1KL9YhcZiA?e=Ytt6ia/ "Cloud Academy Certificate of Achievements") 
+*  distinguish types of testing and features of their application 
+*  gained hands-on experience of testing builds of mobile application in the Project Lab and tested web applications, created for educational purpose
 
 ### Test analysis & design
 
-* know how to decompose a product on functional features
-* know how to implement [test techniques](https://1drv.ms/b/s!AhjrxK79Ii79gYQXAVWBMEdmoe_SzQ?e=EQFzjl/ "Cloud Academy Certificate of Achievements")
-* familiar with [BDD](https://docs.google.com/spreadsheets/d/1rB_-rT2d6kLaNriyKKFdXI_L-uYAYKttQHtLgmwIqx0/edit?usp=share_link "My BDD scenarios") (Behaviour Driven Development) & TDD (Test-Driven Development)
+*  familiar with functional decomposition of products, creating state transition diagrams, writing use cases
+*  familiar with [BDD](https://docs.google.com/spreadsheets/d/1rB_-rT2d6kLaNriyKKFdXI_L-uYAYKttQHtLgmwIqx0/edit?usp=share_link "My BDD scenarios") (Behaviour Driven Development) & TDD (Test-Driven Development)
+*  familiar with black-box [test techniques](https://1drv.ms/b/s!AhjrxK79Ii79gYQXAVWBMEdmoe_SzQ?e=EQFzjl/ "Cloud Academy Certificate of Achievements")
 
 ### Test documentation
 
-* have practice in creating test cases and checklists
-* have understanding when test cases and checklists are better to be used
-* able to prepare comprehensive and detailed [bug reports ↗️](https://docs.google.com/spreadsheets/d/1gYGhbL7xTAmtaO28Necft92F97wFsPNcnUPr9RNnUiA/edit?usp=share_link)
-* know how to create [test cycles](https://1drv.ms/u/s!AhjrxK79Ii79gYQTcLdlOLkkYj2A4g?e=ODkpii/ "A screenshot from Jira") in Jira for running test cases with regards of confirmation and regression testing
+*  have hands-on experience in creating test cases and checklists
+*  able to prepare comprehensive and detailed [bug reports ↗️](https://docs.google.com/spreadsheets/d/1gYGhbL7xTAmtaO28Necft92F97wFsPNcnUPr9RNnUiA/edit?usp=share_link)
+*  know how to create [test cycles](https://1drv.ms/u/s!AhjrxK79Ii79gYQTcLdlOLkkYj2A4g?e=ODkpii/ "A screenshot from Jira") in Jira for running test cases with regards of confirmation and regression testing
 
 ### API testing
 
-* fundamentals of manual API Testing
-* Creating API Requests
+*  able to manually test the API endpoints and methods using Postman to verify the request and response formats
+*  able to design test cases to cover all the API endpoints and methods
+*  able to manipulate code snippets to automate the test cases, using JavaScript algorithms and methods
 
 ### SQL databases
 
-* can write simple queries
+* can write simple and complex queries
 * familiar with the use of aliases and wildcards
-* know how to use joins in queries
+* know how to use joins and unions in queries
 
 ### Tools
 
@@ -52,7 +53,7 @@ Skills and knowledge obtained on bootcamp courses are described in my [**CV**](h
 * **_DevTools_** - have experience in using Elements tab, especially HTML and CSS pages
 * **_MS SQL Server_**
 * **_Visual Studio_**
-* **_Selenium IDE_**
+* **_Selenium IDE_** 
 * **_Postman_**
 * **_Microsoft Office 365 Tools_**
 
